@@ -14,9 +14,7 @@ export const listRecipes = async (req, res) => {
 export const createRecipe = async (req, res) => {
   try {
     const newRecipe = new Recipe(req.body);
-    // todo: agregar la validaction de los datos del body
     await newRecipe.save();
-    // enviar la respuesta al front
     res.status(201).json({
       message: "The recipe was created",
     });
