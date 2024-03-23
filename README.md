@@ -34,6 +34,8 @@ To set up the Rolling Food Backend on your local machine, follow these steps:
 4. Start the server:
    ```bash
    npm start
+   
+The backend should now be up and running, ready to serve recipe data to the frontend.
 
 ## Features
 
