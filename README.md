@@ -21,11 +21,11 @@ To set up the Rolling Food Backend on your local machine, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/rolling-food-backend.git
+   git clone https://github.com/your-username/practico7Ejercicio6.git
    
 2. Navigate to the project directory:
    ```bash
-   cd rolling-food-backend
+   cd practico7Ejercicio6
    
 3. Install dependencies:
    ```bash
