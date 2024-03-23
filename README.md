@@ -35,9 +35,6 @@ To set up the Rolling Food Backend on your local machine, follow these steps:
    ```bash
    npm start
 
-   
-The backend should now be up and running, ready to serve recipe data to the frontend.
-
 ## Features
 
 - **Recipe Management:** Store, retrieve, update, and delete recipes in the MongoDB database.
